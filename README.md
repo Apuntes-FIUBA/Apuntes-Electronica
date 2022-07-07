@@ -11,8 +11,6 @@
 
 https://mega.nz/folder/jVwnjCDJ#IcPqdY2XnOKU83iyZ5La4w
 
-https://drive.google.com/drive/u/2/folders/1GdOVdXxmIKBu4KqmPkQRofs2enAKfTIK
-
 https://fiubaverse.github.io/
 
 http://wiki.foros-fiuba.com.ar/
@@ -25,6 +23,8 @@ https://fede.dm/FIUBA-Map/
 
 ## ToDo's
 
+- [ ] Estandarizar los nombres de los archivos
+- [ ] Convertir todas las imágenes a PDF
 - [ ] Álgebra II: Exámenes
 - [ ] Dispositivos Semiconductores: Faltan Finales
 - [ ] Análisis Numérico I: Falta Finales
