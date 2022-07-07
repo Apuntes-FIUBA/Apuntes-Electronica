@@ -1,0 +1,4 @@
+Aitken
+Steffensen
+falsi
+raphson
