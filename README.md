@@ -9,15 +9,15 @@
 
 ## Links de Interés
 
-https://mega.nz/folder/jVwnjCDJ#IcPqdY2XnOKU83iyZ5La4w
+- [Mega Electrónica](https://mega.nz/folder/jVwnjCDJ#IcPqdY2XnOKU83iyZ5La4w)
 
-https://fiubaverse.github.io/
+- [FIUBA Verse](https://fiubaverse.github.io/)
 
-http://wiki.foros-fiuba.com.ar/
+- [Wiki Foros](http://wiki.foros-fiuba.com.ar/)
 
-https://fede.dm/FIUBA-Plan/
+- [FIUBA Plan](https://fede.dm/FIUBA-Plan/)
 
-https://fede.dm/FIUBA-Map/
+- [FIUBA Map](https://fede.dm/FIUBA-Map/)
 
 ## Colaboradores
 
