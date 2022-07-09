@@ -1,10 +1,10 @@
 ---
 name: Subir Apuntes & Exámenes
 about: Template para subir nuevos apuntes y exámenes.
-title: ''
+title: CODIGO - NOMBRE_DE_LA_MATERIA
 labels: New Files
 assignees: ''
 
 ---
 
-- En el titulo poner el **código** y **nombre** de la materia.
+
