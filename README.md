@@ -3,6 +3,7 @@
  Material de estudio de Ing. Electrónica
 
 ## Como Descargar Archivos 
+![output1](https://user-images.githubusercontent.com/23293753/178125537-31eeb6ba-b995-43d5-b809-faafdfcf81e0.gif)
 
 ## Como Subir Archivos
 
