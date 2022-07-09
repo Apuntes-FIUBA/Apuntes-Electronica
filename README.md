@@ -2,9 +2,9 @@
  
  Material de estudio de Ing. Electrónica
 
-## Como Descargar Apuntes/Exámenes 
+## Como Descargar Archivos 
 
-## Como Subir Apuntes/Exámenes
+## Como Subir Archivos
 
 
 ## Links de Interés
