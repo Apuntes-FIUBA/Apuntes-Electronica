@@ -15,7 +15,7 @@ Idealmente hacer un *Pull Request*, si no de la siguiente manera:
 
 
 ### Ejemplo
-
+![output](https://user-images.githubusercontent.com/23293753/178128409-838c5689-f5f6-4f70-808b-d107fbaea50f.gif)
 
 ## Como Descargar Archivos
 #### Descargar un archivo a la vez
