@@ -2,7 +2,7 @@
  
 
 ## Como Subir Archivos
-Idealmente hacer un *Pull Request*, si no de la siguiente manera:
+Idealmente hacer un *Pull Request*, sino de la siguiente manera:
 
 ### Subir Archivos
 - En lo posible que sean **PDFs** y no words o imágenes.
