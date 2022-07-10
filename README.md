@@ -2,15 +2,20 @@
  
 
 ## Como Subir Archivos
-Idealmente hacer un *Pull Request*, sino de la siguiente manera:
+Idealmente hacer un *Pull Request*, si no de la siguiente manera:
 
 ### Subir Archivos
-En lo posible que sean PDFs y no words o imagenes.
+- En lo posible que sean **PDFs** y no words o imagenes.
+- Si son muchos archivos se puede subir un *zip*.
 
 [![Upload-256(1)](https://user-images.githubusercontent.com/23293753/178126282-689189c9-5e28-43c7-867e-902dbf82afbe.png)
 ](https://github.com/igonzalezb/FIUBA-Electronica/issues/new?assignees=&labels=New+Files&template=subir-apuntes---ex-menes.md&title=CODIGO+-+NOMBRE_DE_LA_MATERIA)
 
 *PD: Los archivos nuevos no aparecen hasta que sean aprobados por algún administrador)*
+
+
+### Ejemplo
+
 
 ## Como Descargar Archivos
 #### Descargar un archivo a la vez
@@ -19,6 +24,8 @@ En lo posible que sean PDFs y no words o imagenes.
 #### Descargar una carpeta completa
 - Copiar el url de la carpeta
 - Pegarlo en la siguiente pagina web: [DownGit](https://downgit.github.io)
+
+![output](https://user-images.githubusercontent.com/23293753/178126978-9efac7db-250f-487a-85dd-6f770e979e01.gif)
 
 ## Links de Interés
 
