@@ -5,8 +5,8 @@
 Idealmente hacer un *Pull Request*, si no de la siguiente manera:
 
 ### Subir Archivos
-- En lo posible que sean **PDFs** y no words o imagenes.
-- Los archivos deben estar correctamente nombrados, ej: *"Primer Parcial 2022 C1.pdf"*
+- En lo posible que sean **PDFs** y no words o imágenes.
+- Los archivos deben estar correctamente nombrados, ej: *``Primer Parcial 2022 C1.pdf``*
 - Si son muchos archivos se puede subir un *zip*.
 
 [![Upload-256(1)](https://user-images.githubusercontent.com/23293753/178126282-689189c9-5e28-43c7-867e-902dbf82afbe.png)
@@ -24,7 +24,7 @@ Idealmente hacer un *Pull Request*, si no de la siguiente manera:
 
 #### Descargar una carpeta completa
 - Copiar el url de la carpeta
-- Pegarlo en la siguiente pagina web: [DownGit](https://downgit.github.io)
+- Pegarlo en la siguiente página web: [DownGit](https://downgit.github.io)
 
 ![output](https://user-images.githubusercontent.com/23293753/178126978-9efac7db-250f-487a-85dd-6f770e979e01.gif)
 
