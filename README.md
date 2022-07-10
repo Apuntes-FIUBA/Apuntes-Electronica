@@ -1,12 +1,24 @@
-# FIUBA Electrónica    ![Alt text](https://cms.fi.uba.ar/uploads/logo_FIUBA_color_2_eb5b4d0124.png)
+# Apuntes Electrónica    ![Alt text](https://cms.fi.uba.ar/uploads/logo_FIUBA_color_2_eb5b4d0124.png)
  
- Material de estudio de Ing. Electrónica
-
-## Como Descargar Archivos 
-![output1](https://user-images.githubusercontent.com/23293753/178125537-31eeb6ba-b995-43d5-b809-faafdfcf81e0.gif)
 
 ## Como Subir Archivos
+Idealmente hacer un *Pull Request*, sino de la siguiente manera:
 
+### Subir Archivos
+En lo posible que sean PDFs y no words o imagenes.
+
+[![Upload-256(1)](https://user-images.githubusercontent.com/23293753/178126282-689189c9-5e28-43c7-867e-902dbf82afbe.png)
+](https://github.com/igonzalezb/FIUBA-Electronica/issues/new?assignees=&labels=New+Files&template=subir-apuntes---ex-menes.md&title=CODIGO+-+NOMBRE_DE_LA_MATERIA)
+
+*PD: Los archivos nuevos no aparecen hasta que sean aprobados por algún administrador)*
+
+## Como Descargar Archivos
+#### Descargar un archivo a la vez
+![output1](https://user-images.githubusercontent.com/23293753/178125537-31eeb6ba-b995-43d5-b809-faafdfcf81e0.gif)
+
+#### Descargar una carpeta completa
+- Copiar el url de la carpeta
+- Pegarlo en la siguiente pagina web: [DownGit](https://downgit.github.io)
 
 ## Links de Interés
 
@@ -21,6 +33,8 @@
 - [FIUBA Map](https://fede.dm/FIUBA-Map/)
 
 ## Colaboradores
+
+Cualquier tipo de colaboración en bienvenida, ya sea con la organización y suba de los archivos, haciendo un *issue* con cosas para mejorar o un pull request.
 
 ## ToDo's
 
