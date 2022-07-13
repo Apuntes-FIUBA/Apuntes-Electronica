@@ -6,7 +6,7 @@ Idealmente hacer un *Pull Request*, sino de la siguiente manera:
 
 ### Subir Archivos
 - En lo posible que sean **PDFs** y no words o imágenes.
-- Los archivos deben estar correctamente nombrados, ej: *``Primer Parcial 2022 C1.pdf``*
+- Los archivos deben estar correctamente nombrados, ej: *``Final 2022-02-26 (Resuelto).pdf``*
 - Si son muchos archivos se puede subir un *zip*.
 
 [![Upload-256(1)](https://user-images.githubusercontent.com/23293753/178126282-689189c9-5e28-43c7-867e-902dbf82afbe.png)
@@ -46,10 +46,5 @@ Cualquier tipo de colaboración en bienvenida, ya sea con la organización y sub
 
 ## ToDo's
 
-- [ ] Estandarizar los nombres de los archivos
-- [ ] Convertir todas las imágenes a PDF
-- [ ] Álgebra II: Exámenes
-- [ ] Dispositivos Semiconductores: Faltan Finales
 - [ ] Química Todo
-- [ ] Física I: Acomodar Resúmenes & Exámenes
-- [ ] Física II: Acomodar Exámenes
+
