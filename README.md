@@ -46,7 +46,7 @@ Ejemplo:
 
 ## 4. Colaboradores
 
-Cualquier tipo de colaboración en bienvenida, ya sea con la organización y suba de los archivos, haciendo un *issue* con cosas para mejorar o un pull request.
+Cualquier tipo de colaboración en bienvenida, ya sea con la organización y suba de los archivos, o un pull-request.
 
 ## 5. ToDo's
 
