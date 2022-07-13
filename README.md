@@ -4,7 +4,7 @@
 ## Como Subir Archivos
 Idealmente hacer un *Pull Request*, sino de la siguiente manera:
 
-### Subir Archivos
+### Subir Archivos haciendo un Issue
 - En lo posible que sean **PDFs** y no words o imágenes.
 - Los archivos deben estar correctamente nombrados, ej: *``Final 2022-02-26 (Resuelto).pdf``*
 - Si son muchos archivos se puede subir un *zip*.
@@ -14,15 +14,15 @@ Idealmente hacer un *Pull Request*, sino de la siguiente manera:
 
 *PD: Los archivos nuevos no aparecen hasta que sean aprobados por algún administrador)*
 
+Ejemplo:
 
-### Ejemplo
 ![output](https://user-images.githubusercontent.com/23293753/178128409-838c5689-f5f6-4f70-808b-d107fbaea50f.gif)
 
 ## Como Descargar Archivos
-#### Descargar un archivo a la vez
+### Descargar un archivo a la vez
 ![output1](https://user-images.githubusercontent.com/23293753/178125537-31eeb6ba-b995-43d5-b809-faafdfcf81e0.gif)
 
-#### Descargar una carpeta completa
+### Descargar una carpeta completa
 - Copiar el url de la carpeta
 - Pegarlo en la siguiente página web: [DownGit](https://downgit.github.io)
 
