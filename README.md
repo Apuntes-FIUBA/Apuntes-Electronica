@@ -50,7 +50,6 @@ Cualquier tipo de colaboración en bienvenida, ya sea con la organización y sub
 - [ ] Convertir todas las imágenes a PDF
 - [ ] Álgebra II: Exámenes
 - [ ] Dispositivos Semiconductores: Faltan Finales
-- [ ] Análisis Numérico I: Falta Finales
 - [ ] Química Todo
 - [ ] Física I: Acomodar Resúmenes & Exámenes
 - [ ] Física II: Acomodar Exámenes
