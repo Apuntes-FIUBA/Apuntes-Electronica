@@ -1,5 +1,6 @@
 # Apuntes Electrónica    ![Alt text](https://cms.fi.uba.ar/uploads/logo_FIUBA_color_2_eb5b4d0124.png)
- 
+
+ Cualquier tipo de colaboración en bienvenida, ya sea con la organización/administración y suba de los archivos, o un pull-request.
 
 ## 1. Como Subir Archivos
 - En lo posible que sean **PDFs** y no words o imágenes.
@@ -43,12 +44,4 @@ Ejemplo:
 - [FIUBA Plan](https://fede.dm/FIUBA-Plan/)
 
 - [FIUBA Map](https://fede.dm/FIUBA-Map/)
-
-## 4. Colaboradores
-
-Cualquier tipo de colaboración en bienvenida, ya sea con la organización y suba de los archivos, o un pull-request.
-
-## 5. ToDo's
-
-- [ ] Química Todo
 
