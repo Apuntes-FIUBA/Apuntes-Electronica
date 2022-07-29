@@ -2,39 +2,11 @@
 
 Cualquier tipo de colaboración en bienvenida, ya sea con la organización/administración y suba de los archivos, o un pull-request.
 
-## 1. Como Subir Archivos
-- En lo posible que sean **PDFs** y no words o imágenes.
-- Los archivos deben estar correctamente nombrados, ej: *``"Final 2022-02-26 (Resuelto).pdf"``*
-- Si son muchos archivos se puede subir un *zip*.
-  
-### 1.1 Idealmente hacer un *Pull Request*
+## Indice
+1. [Como Descargar Apuntes](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/wiki/2.-Como-Descargar-Apuntes)
+2. [Como Subir Apuntes](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/wiki/1.-Como-Subir-Apuntes)
 
-### 1.2 Subir Archivos haciendo un Issue
-(se necesita cuenta de GitHub)
-
-[![Upload-256(1)](https://user-images.githubusercontent.com/23293753/178126282-689189c9-5e28-43c7-867e-902dbf82afbe.png)](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/issues/new?assignees=&labels=New+Files&template=subir-apuntes---ex-menes.md&title=CODIGO+-+NOMBRE_DE_LA_MATERIA)
-
-*PD: Los archivos nuevos no aparecen hasta que sean aprobados por algún administrador)*
-
-Ejemplo:
-
-![output](https://user-images.githubusercontent.com/23293753/178128409-838c5689-f5f6-4f70-808b-d107fbaea50f.gif)
-
-### 1.3 Telegram
-- [Telegram Chat](https://t.me/ApuntesElectronica)
-<img src="https://user-images.githubusercontent.com/23293753/181833435-7f408210-a3a7-442e-9c64-92521969d6bf.jpg" width="300" />
-
-## 2. Como Descargar Archivos
-### 2.1 Descargar un archivo a la vez
-![output1](https://user-images.githubusercontent.com/23293753/178125537-31eeb6ba-b995-43d5-b809-faafdfcf81e0.gif)
-
-### 2.2 Descargar una carpeta completa
-- Copiar el url de la carpeta
-- Pegarlo en la siguiente página web: [DownGit](https://downgit.github.io)
-
-    ![output](https://user-images.githubusercontent.com/23293753/178126978-9efac7db-250f-487a-85dd-6f770e979e01.gif)
-
-## 3. Links de Interés
+### Links de Interés
 
 - [Mega Electrónica](https://mega.nz/folder/jVwnjCDJ#IcPqdY2XnOKU83iyZ5La4w)
 
