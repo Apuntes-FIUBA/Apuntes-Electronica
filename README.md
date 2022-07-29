@@ -1,6 +1,6 @@
-# Apuntes Electrónica    ![Alt text](https://cms.fi.uba.ar/uploads/logo_FIUBA_color_2_eb5b4d0124.png)
+# Apuntes Electrónica
 
- Cualquier tipo de colaboración en bienvenida, ya sea con la organización/administración y suba de los archivos, o un pull-request.
+Cualquier tipo de colaboración en bienvenida, ya sea con la organización/administración y suba de los archivos, o un pull-request.
 
 ## 1. Como Subir Archivos
 - En lo posible que sean **PDFs** y no words o imágenes.
@@ -20,9 +20,10 @@ Ejemplo:
 
 ![output](https://user-images.githubusercontent.com/23293753/178128409-838c5689-f5f6-4f70-808b-d107fbaea50f.gif)
 
-### 1.3 Mail o Telegram
-- Mail: *``igonzalezb@fi.uba.ar``*
-- [Telegram](https://t.me/inakigb)
+### 1.3 Telegram
+- [Telegram Chat](https://t.me/ApuntesElectronica)
+<img src="https://user-images.githubusercontent.com/23293753/181833435-7f408210-a3a7-442e-9c64-92521969d6bf.jpg" width="300" />
+
 ## 2. Como Descargar Archivos
 ### 2.1 Descargar un archivo a la vez
 ![output1](https://user-images.githubusercontent.com/23293753/178125537-31eeb6ba-b995-43d5-b809-faafdfcf81e0.gif)
