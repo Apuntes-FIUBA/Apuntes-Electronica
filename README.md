@@ -4,7 +4,7 @@ Cualquier tipo de colaboración en bienvenida, ya sea con la organización/admin
 
 ## 1. Como Subir Archivos
 - En lo posible que sean **PDFs** y no words o imágenes.
-- Los archivos deben estar correctamente nombrados, ej: *``Final 2022-02-26 (Resuelto).pdf``*
+- Los archivos deben estar correctamente nombrados, ej: *``"Final 2022-02-26 (Resuelto).pdf"``*
 - Si son muchos archivos se puede subir un *zip*.
   
 ### 1.1 Idealmente hacer un *Pull Request*
