@@ -12,7 +12,7 @@ Cualquier tipo de colaboración en bienvenida, ya sea con la organización/admin
 ### 1.2 Subir Archivos haciendo un Issue
 (se necesita cuenta de GitHub)
 
-[![Upload-256(1)](https://user-images.githubusercontent.com/23293753/178126282-689189c9-5e28-43c7-867e-902dbf82afbe.png)](https://github.com/igonzalezb/FIUBA-Electronica/issues/new?assignees=&labels=New+Files&template=subir-apuntes---ex-menes.md&title=CODIGO+-+NOMBRE_DE_LA_MATERIA)
+[![Upload-256(1)](https://user-images.githubusercontent.com/23293753/178126282-689189c9-5e28-43c7-867e-902dbf82afbe.png)](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/issues/new?assignees=&labels=New+Files&template=subir-apuntes---ex-menes.md&title=CODIGO+-+NOMBRE_DE_LA_MATERIA)
 
 *PD: Los archivos nuevos no aparecen hasta que sean aprobados por algún administrador)*
 
