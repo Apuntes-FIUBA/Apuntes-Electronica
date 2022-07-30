@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Apuntes-Electronica <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main">:arrow_down:</a></h2>
+<h2>Apuntes-Electronica <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="81 - Matemática">81 - Matemática</a></li>
     <li><a href="82 - Física">82 - Física</a></li>
@@ -15,6 +15,20 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## [Como Subir Apuntes](subir-apuntes.html)
 
@@ -31,3 +45,4 @@
 
 - [FIUBA Map](https://fede.dm/FIUBA-Map/)
 
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>

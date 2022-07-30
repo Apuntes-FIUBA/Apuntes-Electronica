@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>7 - Formas Cuadraticas <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8102 - Algebra II/Clases Vargas/7 - Formas Cuadraticas">:arrow_down:</a></h2>
+<h2>7 - Formas Cuadraticas <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8102 - Algebra II/Clases Vargas/7 - Formas Cuadraticas" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="Apunte_JoseLuis MC_CuadrÃ¡ticas.pdf">Apunte_JoseLuis MC_CuadrÃ¡ticas.pdf</a></li>
     <li><a href="FC_NPMO_VF.pdf">FC_NPMO_VF.pdf</a></li>
@@ -27,4 +27,18 @@
 
 
 
-<br><br><br>[(Volver a la página anterior)](../)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>

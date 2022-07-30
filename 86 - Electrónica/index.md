@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>86 - Electrónica <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/86 - Electrónica">:arrow_down:</a></h2>
+<h2>86 - Electrónica <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/86 - Electrónica" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="8601 - Tecnica Digital">8601 - Tecnica Digital</a></li>
     <li><a href="8602 - Introduccion Ing Electronica">8602 - Introduccion Ing Electronica</a></li>
@@ -23,4 +23,18 @@
 
 
 
-<br><br><br>[(Volver a la página anterior)](../)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>

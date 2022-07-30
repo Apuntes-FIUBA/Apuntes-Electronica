@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>8105 - Analisis Matematico III A <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8105 - Analisis Matematico III A">:arrow_down:</a></h2>
+<h2>8105 - Analisis Matematico III A <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8105 - Analisis Matematico III A" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="Apuntes Clases">Apuntes Clases</a></li>
     <li><a href="Apuntes Prelat">Apuntes Prelat</a></li>
@@ -26,4 +26,18 @@
 
 
 
-<br><br><br>[(Volver a la página anterior)](../)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>

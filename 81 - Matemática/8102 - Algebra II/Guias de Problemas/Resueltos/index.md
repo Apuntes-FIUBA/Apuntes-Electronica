@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Resueltos <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8102 - Algebra II/Guias de Problemas/Resueltos">:arrow_down:</a></h2>
+<h2>Resueltos <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8102 - Algebra II/Guias de Problemas/Resueltos" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="Guía 1">Guía 1</a></li>
     <li><a href="Guía 2">Guía 2</a></li>
@@ -26,4 +26,18 @@
 
 
 
-<br><br><br>[(Volver a la página anterior)](../)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>

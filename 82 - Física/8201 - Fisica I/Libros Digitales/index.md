@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Libros Digitales <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8201 - Fisica I/Libros Digitales">:arrow_down:</a></h2>
+<h2>Libros Digitales <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8201 - Fisica I/Libros Digitales" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="Sistemas de Referencia No Inerciales - 2020.pdf">Sistemas de Referencia No Inerciales - 2020.pdf</a></li>
     <li><a href="Unidad 1 - Cinemarita de la particula.pdf">Unidad 1 - Cinemarita de la particula.pdf</a></li>
@@ -32,4 +32,18 @@
 
 
 
-<br><br><br>[(Volver a la página anterior)](../)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>

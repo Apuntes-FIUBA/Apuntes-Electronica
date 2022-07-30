@@ -6,7 +6,7 @@ make_index.py [--directory </path/to/directory> --header <header text>]
 INDEX_TEMPLATE = r"""
 <html>
 <body>
-<h2>${header} <a href="${link}">:arrow_down:</a></h2>
+<h2>${header} <a href="${link}" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
 % for name in names:
     <li><a href="${name}">${name}</a></li>
@@ -45,7 +45,7 @@ def main():
                 print("CREANDO "+subdir+'/index.md')
                 f.write(newHTML)
                 #f.write("<br><br>[:arrow_down:](https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main"+link+")\n")
-                f.write("<br><br><br>[(Volver a la página anterior)](../)\n")
+                f.write('<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>\n')
         else:
             with open(subdir+'/index.md', 'r') as f:
                 data = f.readlines()
@@ -56,7 +56,7 @@ def main():
                     if not '<' in line : 
                         f.write(line)
                 #f.write("<br><br>[:arrow_down:](https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main"+link+")\n")
-                f.write("<br><br><br>[(Volver a la página anterior)](../)\n")
+                f.write('<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>\n')
         f.close()
 if __name__ == '__main__':
     main()

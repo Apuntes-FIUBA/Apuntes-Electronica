@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Apuntes Clases <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8105 - Analisis Matematico III A/Apuntes Clases">:arrow_down:</a></h2>
+<h2>Apuntes Clases <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8105 - Analisis Matematico III A/Apuntes Clases" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="01 - Teorica Semana 1.pdf">01 - Teorica Semana 1.pdf</a></li>
     <li><a href="02 - Complemento Clase 2.pdf">02 - Complemento Clase 2.pdf</a></li>
@@ -57,4 +57,18 @@
 
 
 
-<br><br><br>[(Volver a la página anterior)](../)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>

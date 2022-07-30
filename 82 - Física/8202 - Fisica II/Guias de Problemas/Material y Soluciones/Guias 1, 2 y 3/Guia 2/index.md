@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Guia 2 <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8202 - Fisica II/Guias de Problemas/Material y Soluciones/Guias 1, 2 y 3/Guia 2">:arrow_down:</a></h2>
+<h2>Guia 2 <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8202 - Fisica II/Guias de Problemas/Material y Soluciones/Guias 1, 2 y 3/Guia 2" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="Ejercicio 13 – Guía 2.pptx">Ejercicio 13 – Guía 2.pptx</a></li>
     <li><a href="Problema  5 guÃ_a 2.pdf">Problema  5 guÃ_a 2.pdf</a></li>
@@ -24,4 +24,18 @@
 
 
 
-<br><br><br>[(Volver a la página anterior)](../)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>

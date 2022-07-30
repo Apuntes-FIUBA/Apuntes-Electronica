@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>2 Dinamica de la Particula <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8201 - Fisica I/Clase en Linea/2 Dinamica de la Particula">:arrow_down:</a></h2>
+<h2>2 Dinamica de la Particula <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8201 - Fisica I/Clase en Linea/2 Dinamica de la Particula" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="Clase_5_mayo 06-May-2020 14-49-30.pdf">Clase_5_mayo 06-May-2020 14-49-30.pdf</a></li>
     <li><a href="DinÃ¡mica - Ejercicio 15 (5).pdf">DinÃ¡mica - Ejercicio 15 (5).pdf</a></li>
@@ -36,4 +36,18 @@
 
 
 
-<br><br><br>[(Volver a la página anterior)](../)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>

@@ -1,4 +1,3 @@
 theme: jekyll-theme-slate
 title: Apuntes Electrónica
-plugins:
-  - jemoji
+show_downloads: false

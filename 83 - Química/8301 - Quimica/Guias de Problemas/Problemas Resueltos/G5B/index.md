@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>G5B <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/83 - Química/8301 - Quimica/Guias de Problemas/Problemas Resueltos/G5B">:arrow_down:</a></h2>
+<h2>G5B <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/83 - Química/8301 - Quimica/Guias de Problemas/Problemas Resueltos/G5B" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="PG5B.Equilibrio Ionico_Ej.19.pdf">PG5B.Equilibrio Ionico_Ej.19.pdf</a></li>
     <li><a href="PG5B_ Ej 26 Hidrolisis.pdf">PG5B_ Ej 26 Hidrolisis.pdf</a></li>
@@ -28,4 +28,18 @@
 
 
 
-<br><br><br>[(Volver a la página anterior)](../)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>

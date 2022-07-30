@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>G2 <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/83 - Química/8301 - Quimica/Guias de Problemas/Problemas Resueltos/G2">:arrow_down:</a></h2>
+<h2>G2 <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/83 - Química/8301 - Quimica/Guias de Problemas/Problemas Resueltos/G2" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="PG2B-Liquidos-Ej 22.pdf">PG2B-Liquidos-Ej 22.pdf</a></li>
     <li><a href="PG2B-Líquidos-Ej 18.pdf">PG2B-Líquidos-Ej 18.pdf</a></li>
@@ -26,4 +26,18 @@
 
 
 
-<br><br><br>[(Volver a la página anterior)](../)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>

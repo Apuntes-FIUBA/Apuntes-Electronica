@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>7 Ondas Mecanicas <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8201 - Fisica I/Clase en Linea/7 Ondas Mecanicas">:arrow_down:</a></h2>
+<h2>7 Ondas Mecanicas <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8201 - Fisica I/Clase en Linea/7 Ondas Mecanicas" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="Ejercicio 11.pdf">Ejercicio 11.pdf</a></li>
     <li><a href="Ejercicio 14 y 16.pdf">Ejercicio 14 y 16.pdf</a></li>
@@ -27,4 +27,18 @@
 
 
 
-<br><br><br>[(Volver a la página anterior)](../)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>

@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Primer Parcial <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8201 - Fisica I/Examenes/Parciales/Primer Parcial">:arrow_down:</a></h2>
+<h2>Primer Parcial <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8201 - Fisica I/Examenes/Parciales/Primer Parcial" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="1 parcial a distancia (1).pdf">1 parcial a distancia (1).pdf</a></li>
     <li><a href="1er parcial  echarri 2011.jpg">1er parcial  echarri 2011.jpg</a></li>
@@ -43,4 +43,18 @@
 
 
 
-<br><br><br>[(Volver a la página anterior)](../)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>

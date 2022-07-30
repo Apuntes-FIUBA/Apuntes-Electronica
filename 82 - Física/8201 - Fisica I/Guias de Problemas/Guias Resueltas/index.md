@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Guias Resueltas <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8201 - Fisica I/Guias de Problemas/Guias Resueltas">:arrow_down:</a></h2>
+<h2>Guias Resueltas <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8201 - Fisica I/Guias de Problemas/Guias Resueltas" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="(1)Óptica Geométrica Física I 2019.pdf">(1)Óptica Geométrica Física I 2019.pdf</a></li>
     <li><a href="(2)Óptica Geométrica Física I 2019.pdf">(2)Óptica Geométrica Física I 2019.pdf</a></li>
@@ -34,4 +34,18 @@
 
 
 
-<br><br><br>[(Volver a la página anterior)](../)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>

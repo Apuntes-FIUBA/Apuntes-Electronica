@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Primera Oportunidad <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/95 - Computación/9504 - Analisis Numerico I/Comision Schwarz-Sosa/Examenes/Parciales/Primera Oportunidad">:arrow_down:</a></h2>
+<h2>Primera Oportunidad <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/95 - Computación/9504 - Analisis Numerico I/Comision Schwarz-Sosa/Examenes/Parciales/Primera Oportunidad" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="Parcial 2009-1C-1op.pdf">Parcial 2009-1C-1op.pdf</a></li>
     <li><a href="Parcial 2009-2C-1op.pdf">Parcial 2009-2C-1op.pdf</a></li>
@@ -37,4 +37,18 @@
 
 
 
-<br><br><br>[(Volver a la página anterior)](../)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>

@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Clases Teoricas <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/86 - Electrónica/8603 - Dispositivos Semiconductores/Clases/Clases Teoricas">:arrow_down:</a></h2>
+<h2>Clases Teoricas <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/86 - Electrónica/8603 - Dispositivos Semiconductores/Clases/Clases Teoricas" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="Clase 01 - Importancia de los Semiconductores.pdf">Clase 01 - Importancia de los Semiconductores.pdf</a></li>
     <li><a href="Clase 02 - Fisica de los Semiconductores.pdf">Clase 02 - Fisica de los Semiconductores.pdf</a></li>
@@ -43,4 +43,18 @@
 
 
 
-<br><br><br>[(Volver a la página anterior)](../)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>

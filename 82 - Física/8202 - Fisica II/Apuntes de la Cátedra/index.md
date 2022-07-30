@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Apuntes de la Cátedra <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8202 - Fisica II/Apuntes de la Cátedra">:arrow_down:</a></h2>
+<h2>Apuntes de la Cátedra <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8202 - Fisica II/Apuntes de la Cátedra" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="Capitulo 1 Electrostatica en el vacio 1C 2020.pdf">Capitulo 1 Electrostatica en el vacio 1C 2020.pdf</a></li>
     <li><a href="Capitulo 2 Conductores y capacitores 03 2020.pdf">Capitulo 2 Conductores y capacitores 03 2020.pdf</a></li>
@@ -31,4 +31,18 @@
 
 
 
-<br><br><br>[(Volver a la página anterior)](../)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>

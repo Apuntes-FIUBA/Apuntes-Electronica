@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Unidad 4 - Interpolación y Ajuste <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/95 - Computación/9504 - Analisis Numerico I/Comision Schwarz-Sosa/Clases Practica/Unidad 4 - Interpolación y Ajuste">:arrow_down:</a></h2>
+<h2>Unidad 4 - Interpolación y Ajuste <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/95 - Computación/9504 - Analisis Numerico I/Comision Schwarz-Sosa/Clases Practica/Unidad 4 - Interpolación y Ajuste" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
     <li><a href="1. Ajuste de curvas.ipynb">1. Ajuste de curvas.ipynb</a></li>
     <li><a href="1. Interpolación -  Primera Parte.ipynb">1. Interpolación -  Primera Parte.ipynb</a></li>
@@ -27,4 +27,18 @@
 
 
 
-<br><br><br>[(Volver a la página anterior)](../)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>
