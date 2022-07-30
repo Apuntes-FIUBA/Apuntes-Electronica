@@ -1,7 +1,7 @@
 # Materias por Departamento
-- [81 - Matemática](./81 - Matemática/)
-- [82 - Física](./82 - Física/)
-- [83 - Química](./83 - Química/)
+- [81 - Matemática](81%20-%20Matem%C3%A1tica/index.md)
+- [82 - Física](82%20-%20F%C3%ADsica/index.md)
+- [83 - Química](83%20-%20Qu%C3%ADmica/index.md)
 - [85 - Energía Eléctrica](./85 - Energía Eléctrica/)
 - [86 - Electrónica](./86 - Electrónica/)
 - [89 - Hidráulica](./89 - Hidráulica/)
