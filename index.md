@@ -16,20 +16,6 @@
 </body>
 </html>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## [Como Subir Apuntes](subir-apuntes.html)
 
 
@@ -44,5 +30,3 @@
 - [FIUBA Plan](https://fede.dm/FIUBA-Plan/)
 
 - [FIUBA Map](https://fede.dm/FIUBA-Map/)
-
-<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>
