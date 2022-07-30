@@ -1,0 +1,20 @@
+
+<html>
+<body>
+<h2>Guía 4</h2>
+<ul>
+    <li><a href="4.1 álgebra.pdf">4.1 álgebra.pdf</a></li>
+    <li><a href="4.10 álgebra.pdf">4.10 álgebra.pdf</a></li>
+    <li><a href="4.11 álgebra.pdf">4.11 álgebra.pdf</a></li>
+    <li><a href="4.12 álgebra.pdf">4.12 álgebra.pdf</a></li>
+    <li><a href="4.13 álgebra.pdf">4.13 álgebra.pdf</a></li>
+    <li><a href="4.14a) álgebra.pdf">4.14a) álgebra.pdf</a></li>
+    <li><a href="4.16a) álgebra.pdf">4.16a) álgebra.pdf</a></li>
+    <li><a href="4.2 álgebra.pdf">4.2 álgebra.pdf</a></li>
+    <li><a href="4.3 álgebra.jpeg">4.3 álgebra.jpeg</a></li>
+    <li><a href="4.4 álgebra.pdf">4.4 álgebra.pdf</a></li>
+    <li><a href="4.7 álgebra.pdf">4.7 álgebra.pdf</a></li>
+    <li><a href="4.9 álgebra.pdf">4.9 álgebra.pdf</a></li>
+</ul>
+</body>
+</html>

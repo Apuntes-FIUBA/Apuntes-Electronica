@@ -8,15 +8,7 @@ Cualquier tipo de colaboración en bienvenida, ya sea con la organización/admin
 1. [Como Descargar Apuntes](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/wiki/2.-Como-Descargar-Apuntes)
 2. [Como Subir Apuntes](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/wiki/1.-Como-Subir-Apuntes)
 
-### Links de Interés
 
-- [Mega Electrónica](https://mega.nz/folder/jVwnjCDJ#IcPqdY2XnOKU83iyZ5La4w)
+### Test Github-Page Offline
 
-- [FIUBA Verse](https://fiubaverse.github.io/)
-
-- [Wiki Foros](http://wiki.foros-fiuba.com.ar/)
-
-- [FIUBA Plan](https://fede.dm/FIUBA-Plan/)
-
-- [FIUBA Map](https://fede.dm/FIUBA-Map/)
-
+``bundle exec jekyll serve`` 

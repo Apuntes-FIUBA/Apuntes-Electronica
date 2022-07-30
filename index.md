@@ -1,10 +1,39 @@
-# Materias por Departamento
-- [81 - Matemática](./81 - Matemática/)
-- [82 - Física](./82 - Física/)
-- [83 - Química](./83 - Química/)
-- [85 - Energía Eléctrica](./85 - Energía Eléctrica/)
-- [86 - Electrónica](./86 - Electrónica/)
-- [89 - Hidráulica](./89 - Hidráulica/)
-- [91 - Gestión](./91 - Gestión/)
-- [95 - Computación](./95 - Computación/)
-- [97 - Ambiente y Trabajo](./97 - Ambiente y Trabajo/)
+
+<html>
+<body>
+<h2>Apuntes-Electronica</h2>
+<ul>
+    <li><a href="81 - Matemática">81 - Matemática</a></li>
+    <li><a href="82 - Física">82 - Física</a></li>
+    <li><a href="83 - Química">83 - Química</a></li>
+    <li><a href="85 - Energía Electrica">85 - Energía Electrica</a></li>
+    <li><a href="86 - Electrónica">86 - Electrónica</a></li>
+    <li><a href="89 - Hidráulica">89 - Hidráulica</a></li>
+    <li><a href="91 - Gestión">91 - Gestión</a></li>
+    <li><a href="95 - Computación">95 - Computación</a></li>
+    <li><a href="97 - Ambiente y Trabajo">97 - Ambiente y Trabajo</a></li>
+</ul>
+</body>
+</html>
+
+
+
+
+
+## [Como Subir Apuntes](subir-apuntes.html)
+
+
+## Links de Interés
+
+- [Mega Electrónica](https://mega.nz/folder/jVwnjCDJ#IcPqdY2XnOKU83iyZ5La4w)
+
+- [FIUBA Verse](https://fiubaverse.github.io/)
+
+- [Wiki Foros](http://wiki.foros-fiuba.com.ar/)
+
+- [FIUBA Plan](https://fede.dm/FIUBA-Plan/)
+
+- [FIUBA Map](https://fede.dm/FIUBA-Map/)
+
+
+Cualquier tipo de colaboración en bienvenida, ya sea con la organización/administración y suba de los archivos, o un pull-request.

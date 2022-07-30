@@ -1,0 +1,19 @@
+
+<html>
+<body>
+<h2>Clases Practicas</h2>
+<ul>
+    <li><a href="1 - SISTEMAS NUMÉRICOS (1).pdf">1 - SISTEMAS NUMÉRICOS (1).pdf</a></li>
+    <li><a href="1 - SISTEMAS NUMÉRICOS.pdf">1 - SISTEMAS NUMÉRICOS.pdf</a></li>
+    <li><a href="2 - ÁLGEBRA DE BOOLE.pdf">2 - ÁLGEBRA DE BOOLE.pdf</a></li>
+    <li><a href="2 - Álgebra de Boole Fuchs.pdf">2 - Álgebra de Boole Fuchs.pdf</a></li>
+    <li><a href="2 - Quine Mc Cluskey.pdf">2 - Quine Mc Cluskey.pdf</a></li>
+    <li><a href="3 - CODIGOS.pdf">3 - CODIGOS.pdf</a></li>
+    <li><a href="4 - DECO Y MUX con Ej 5.pdf">4 - DECO Y MUX con Ej 5.pdf</a></li>
+    <li><a href="5 - UNIDADES ARITMETICAS.pdf">5 - UNIDADES ARITMETICAS.pdf</a></li>
+    <li><a href="6 - PLD & MEMORIAS.pdf">6 - PLD & MEMORIAS.pdf</a></li>
+    <li><a href="7 - FLIP-FLOP.pdf">7 - FLIP-FLOP.pdf</a></li>
+    <li><a href="8 - CONTADORES.pdf">8 - CONTADORES.pdf</a></li>
+</ul>
+</body>
+</html>
