@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Tercer Parcial</h2>
+<h2>Tercer Parcial <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8202 - Fisica II/Examenes/Parciales/Tercer Parcial">:arrow_down:</a></h2>
 <ul>
     <li><a href="3er parcial 2C 2020.pdf">3er parcial 2C 2020.pdf</a></li>
     <li><a href="MC 3 Simulacro Cursos 7 y 8 (1).pdf">MC 3 Simulacro Cursos 7 y 8 (1).pdf</a></li>
@@ -12,3 +12,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

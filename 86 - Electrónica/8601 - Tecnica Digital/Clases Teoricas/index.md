@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Clases Teoricas</h2>
+<h2>Clases Teoricas <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/86 - Electrónica/8601 - Tecnica Digital/Clases Teoricas">:arrow_down:</a></h2>
 <ul>
     <li><a href="1 - Digitalización.pdf">1 - Digitalización.pdf</a></li>
     <li><a href="10 - Biestables.pdf">10 - Biestables.pdf</a></li>
@@ -17,3 +17,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Ejercicios Recomendados</h2>
+<h2>Ejercicios Recomendados <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/86 - Electrónica/8602 - Introduccion Ing Electronica/Ejercicios Recomendados">:arrow_down:</a></h2>
 <ul>
     <li><a href="1 - Ley de Ohm.pdf">1 - Ley de Ohm.pdf</a></li>
     <li><a href="2 - Problemas básicos Leyes de Kirchhoff.pdf">2 - Problemas básicos Leyes de Kirchhoff.pdf</a></li>
@@ -14,3 +14,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

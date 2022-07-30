@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Parciales</h2>
+<h2>Parciales <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8102 - Algebra II/Examenes/Parciales">:arrow_down:</a></h2>
 <ul>
     <li><a href="Parcial 2020 1C.pdf">Parcial 2020 1C.pdf</a></li>
     <li><a href="Parcial 2020-06-27 (Resuelto).pdf">Parcial 2020-06-27 (Resuelto).pdf</a></li>
@@ -14,3 +14,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

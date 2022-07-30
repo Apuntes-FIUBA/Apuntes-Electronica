@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Teoria</h2>
+<h2>Teoria <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/95 - Computación/9504 - Analisis Numerico I/Comision Schwarz-Sosa/Teoria">:arrow_down:</a></h2>
 <ul>
     <li><a href="1.0 Errores y representación numérica.pdf">1.0 Errores y representación numérica.pdf</a></li>
     <li><a href="1.1 Cálculo y Estimación de Cp y Te.pdf">1.1 Cálculo y Estimación de Cp y Te.pdf</a></li>
@@ -16,3 +16,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

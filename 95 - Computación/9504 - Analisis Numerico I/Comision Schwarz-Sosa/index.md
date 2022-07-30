@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Comision Schwarz-Sosa</h2>
+<h2>Comision Schwarz-Sosa <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/95 - Computación/9504 - Analisis Numerico I/Comision Schwarz-Sosa">:arrow_down:</a></h2>
 <ul>
     <li><a href="Bibliografia">Bibliografia</a></li>
     <li><a href="Clases Practica">Clases Practica</a></li>
@@ -11,3 +11,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

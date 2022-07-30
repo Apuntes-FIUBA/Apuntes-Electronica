@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Filminas Hogert</h2>
+<h2>Filminas Hogert <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8202 - Fisica II/Clases/Filminas Hogert">:arrow_down:</a></h2>
 <ul>
     <li><a href="1-Electrostatica.pdf">1-Electrostatica.pdf</a></li>
     <li><a href="10-Materiales Magneticos.pdf">10-Materiales Magneticos.pdf</a></li>
@@ -17,3 +17,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

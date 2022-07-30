@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Material y Soluciones</h2>
+<h2>Material y Soluciones <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8202 - Fisica II/Guias de Problemas/Material y Soluciones">:arrow_down:</a></h2>
 <ul>
     <li><a href="Guia 0">Guia 0</a></li>
     <li><a href="Guia 1">Guia 1</a></li>
@@ -11,3 +11,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

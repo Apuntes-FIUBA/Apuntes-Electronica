@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Guias de Ejercicios</h2>
+<h2>Guias de Ejercicios <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/86 - Electrónica/8601 - Tecnica Digital/Guias de Ejercicios">:arrow_down:</a></h2>
 <ul>
     <li><a href="Práctica 0 - Introduccion a la tecnica digital.pdf">Práctica 0 - Introduccion a la tecnica digital.pdf</a></li>
     <li><a href="Práctica 1 - Sistemas Numericos.pdf">Práctica 1 - Sistemas Numericos.pdf</a></li>
@@ -16,3 +16,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Sugerencias y Algunos ej resueltos</h2>
+<h2>Sugerencias y Algunos ej resueltos <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8102 - Algebra II/Guias de Problemas/Sugerencias y Algunos ej resueltos">:arrow_down:</a></h2>
 <ul>
     <li><a href="Sugerencias y algunos ejercicios resueltos para la Semana 1.pdf">Sugerencias y algunos ejercicios resueltos para la Semana 1.pdf</a></li>
     <li><a href="Sugerencias y algunos ejercicios resueltos para la Semana 10.pdf">Sugerencias y algunos ejercicios resueltos para la Semana 10.pdf</a></li>
@@ -25,3 +25,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

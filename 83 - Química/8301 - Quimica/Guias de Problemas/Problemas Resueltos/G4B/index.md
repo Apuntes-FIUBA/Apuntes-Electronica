@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>G4B</h2>
+<h2>G4B <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/83 - Química/8301 - Quimica/Guias de Problemas/Problemas Resueltos/G4B">:arrow_down:</a></h2>
 <ul>
     <li><a href="PG4B - Termoquimica_Ej 34.pdf">PG4B - Termoquimica_Ej 34.pdf</a></li>
     <li><a href="PG4B Termoquimica Ej 33 .pdf">PG4B Termoquimica Ej 33 .pdf</a></li>
@@ -15,3 +15,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

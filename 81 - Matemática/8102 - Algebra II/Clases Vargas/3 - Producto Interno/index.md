@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>3 - Producto Interno</h2>
+<h2>3 - Producto Interno <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8102 - Algebra II/Clases Vargas/3 - Producto Interno">:arrow_down:</a></h2>
 <ul>
     <li><a href="PI_Ejercicios.pdf">PI_Ejercicios.pdf</a></li>
     <li><a href="Reunion1_PI_2021_1C_26_5.pdf">Reunion1_PI_2021_1C_26_5.pdf</a></li>
@@ -16,3 +16,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

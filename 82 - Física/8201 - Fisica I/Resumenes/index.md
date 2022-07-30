@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Resumenes</h2>
+<h2>Resumenes <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8201 - Fisica I/Resumenes">:arrow_down:</a></h2>
 <ul>
     <li><a href="Dinamica.pdf">Dinamica.pdf</a></li>
     <li><a href="FÓRMULAS FÍSICA 1° PARCIAL.pdf">FÓRMULAS FÍSICA 1° PARCIAL.pdf</a></li>
@@ -16,3 +16,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

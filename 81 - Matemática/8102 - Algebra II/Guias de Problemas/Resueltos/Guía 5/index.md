@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Guía 5</h2>
+<h2>Guía 5 <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8102 - Algebra II/Guias de Problemas/Resueltos/Guía 5">:arrow_down:</a></h2>
 <ul>
     <li><a href="5.1 a) y b) álgebra.pdf">5.1 a) y b) álgebra.pdf</a></li>
     <li><a href="5.10 a)b)c)yd) álgebra.pdf">5.10 a)b)c)yd) álgebra.pdf</a></li>
@@ -16,3 +16,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

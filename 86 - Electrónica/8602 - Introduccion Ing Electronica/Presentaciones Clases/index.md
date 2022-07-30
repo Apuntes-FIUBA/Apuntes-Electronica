@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Presentaciones Clases</h2>
+<h2>Presentaciones Clases <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/86 - Electrónica/8602 - Introduccion Ing Electronica/Presentaciones Clases">:arrow_down:</a></h2>
 <ul>
     <li><a href="Mediciones e incertidumbres.pdf">Mediciones e incertidumbres.pdf</a></li>
     <li><a href="Presentacion 1 - Introduccion.pdf">Presentacion 1 - Introduccion.pdf</a></li>
@@ -27,3 +27,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

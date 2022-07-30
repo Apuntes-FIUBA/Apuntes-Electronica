@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Gonzalez</h2>
+<h2>Gonzalez <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8105 - Analisis Matematico III A/Examenes/Parciales/Gonzalez">:arrow_down:</a></h2>
 <ul>
     <li><a href="Parcial 2018 1C Resuelto.pdf">Parcial 2018 1C Resuelto.pdf</a></li>
     <li><a href="Parcial 2020 1C Resuelto.pdf">Parcial 2020 1C Resuelto.pdf</a></li>
@@ -13,3 +13,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

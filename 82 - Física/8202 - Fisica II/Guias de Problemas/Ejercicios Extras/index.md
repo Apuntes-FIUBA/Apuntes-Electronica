@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Ejercicios Extras</h2>
+<h2>Ejercicios Extras <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8202 - Fisica II/Guias de Problemas/Ejercicios Extras">:arrow_down:</a></h2>
 <ul>
     <li><a href="Circuito con C y Diel.jpeg">Circuito con C y Diel.jpeg</a></li>
     <li><a href="EJ1.pdf">EJ1.pdf</a></li>
@@ -16,3 +16,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Parciales</h2>
+<h2>Parciales <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8201 - Fisica I/Examenes/Parciales">:arrow_down:</a></h2>
 <ul>
     <li><a href="2RecA 1c2020.pdf">2RecA 1c2020.pdf</a></li>
     <li><a href="2RecA 2c2020.pdf">2RecA 2c2020.pdf</a></li>
@@ -21,3 +21,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

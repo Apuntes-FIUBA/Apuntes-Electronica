@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Clases Vargas</h2>
+<h2>Clases Vargas <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8102 - Algebra II/Clases Vargas">:arrow_down:</a></h2>
 <ul>
     <li><a href="1 - Espacios Vectoriales">1 - Espacios Vectoriales</a></li>
     <li><a href="2 - Transformaciones Lineales">2 - Transformaciones Lineales</a></li>
@@ -14,3 +14,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

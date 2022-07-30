@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>2 - Transformaciones Lineales</h2>
+<h2>2 - Transformaciones Lineales <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8102 - Algebra II/Clases Vargas/2 - Transformaciones Lineales">:arrow_down:</a></h2>
 <ul>
     <li><a href="Clase práctica 5 de mayo- Dora.pdf">Clase práctica 5 de mayo- Dora.pdf</a></li>
     <li><a href="ClaseMatrizTL.pdf">ClaseMatrizTL.pdf</a></li>
@@ -14,3 +14,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

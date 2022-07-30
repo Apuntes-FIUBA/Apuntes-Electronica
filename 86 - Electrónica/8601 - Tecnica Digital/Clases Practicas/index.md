@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Clases Practicas</h2>
+<h2>Clases Practicas <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/86 - Electrónica/8601 - Tecnica Digital/Clases Practicas">:arrow_down:</a></h2>
 <ul>
     <li><a href="1 - SISTEMAS NUMÉRICOS (1).pdf">1 - SISTEMAS NUMÉRICOS (1).pdf</a></li>
     <li><a href="1 - SISTEMAS NUMÉRICOS.pdf">1 - SISTEMAS NUMÉRICOS.pdf</a></li>
@@ -17,3 +17,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

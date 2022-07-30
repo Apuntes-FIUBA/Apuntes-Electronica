@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>6 Optica Geometrica</h2>
+<h2>6 Optica Geometrica <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8201 - Fisica I/Clase en Linea/6 Optica Geometrica">:arrow_down:</a></h2>
 <ul>
     <li><a href="Ejercicio 13.pdf">Ejercicio 13.pdf</a></li>
     <li><a href="Ejercicio 20.pdf">Ejercicio 20.pdf</a></li>
@@ -13,3 +13,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

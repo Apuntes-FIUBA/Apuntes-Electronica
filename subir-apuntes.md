@@ -1,4 +1,4 @@
-# Como Subir Apuntes
+# Como Subir Apuntes (3 opciones)
 - En lo posible que sean **PDFs** y no words o imágenes.
 - Los archivos deben estar correctamente nombrados, ej: *``Final 2022-02-26 (Resuelto).pdf``*
 - Si son muchos archivos se puede subir un *zip*.

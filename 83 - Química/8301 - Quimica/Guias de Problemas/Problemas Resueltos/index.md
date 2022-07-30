@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Problemas Resueltos</h2>
+<h2>Problemas Resueltos <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/83 - Química/8301 - Quimica/Guias de Problemas/Problemas Resueltos">:arrow_down:</a></h2>
 <ul>
     <li><a href="G1">G1</a></li>
     <li><a href="G2">G2</a></li>
@@ -19,3 +19,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

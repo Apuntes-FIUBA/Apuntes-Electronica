@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Guia 0</h2>
+<h2>Guia 0 <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8202 - Fisica II/Guias de Problemas/Material y Soluciones/Guia 0">:arrow_down:</a></h2>
 <ul>
     <li><a href="Apunte sistemas de coodenadas FII Prof. Josefina Silveyra.pdf">Apunte sistemas de coodenadas FII Prof. Josefina Silveyra.pdf</a></li>
     <li><a href="ConversiÃ³n de sistemas de coordenadas.pdf">ConversiÃ³n de sistemas de coordenadas.pdf</a></li>
@@ -14,3 +14,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

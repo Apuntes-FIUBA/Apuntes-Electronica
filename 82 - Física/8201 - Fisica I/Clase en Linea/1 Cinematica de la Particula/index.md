@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>1 Cinematica de la Particula</h2>
+<h2>1 Cinematica de la Particula <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8201 - Fisica I/Clase en Linea/1 Cinematica de la Particula">:arrow_down:</a></h2>
 <ul>
     <li><a href="CinemÃ¡tica A.pdf">CinemÃ¡tica A.pdf</a></li>
     <li><a href="Clase_jueves_coord_intrinsecas.pdf">Clase_jueves_coord_intrinsecas.pdf</a></li>
@@ -22,3 +22,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

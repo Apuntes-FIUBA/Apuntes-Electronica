@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Bibliografia</h2>
+<h2>Bibliografia <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8201 - Fisica I/Bibliografia">:arrow_down:</a></h2>
 <ul>
     <li><a href="Experimentación, Una introducción a la teoría de mediciones y al diseño de experimentos - Baird.pdf">Experimentación, Una introducción a la teoría de mediciones y al diseño de experimentos - Baird.pdf</a></li>
     <li><a href="Física (Vol. 1) - Resnick, Halliday _ Krane.pdf">Física (Vol. 1) - Resnick, Halliday _ Krane.pdf</a></li>
@@ -13,3 +13,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

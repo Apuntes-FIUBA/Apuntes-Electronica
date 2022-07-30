@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Examenes</h2>
+<h2>Examenes <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/86 - Electrónica/8601 - Tecnica Digital/Examenes">:arrow_down:</a></h2>
 <ul>
     <li><a href="Modelo de coloquio (parte escrita).pdf">Modelo de coloquio (parte escrita).pdf</a></li>
     <li><a href="Modelo de parcial.pdf">Modelo de parcial.pdf</a></li>
@@ -12,3 +12,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

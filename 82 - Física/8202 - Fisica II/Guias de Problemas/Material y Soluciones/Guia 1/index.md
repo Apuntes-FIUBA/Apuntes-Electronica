@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Guia 1</h2>
+<h2>Guia 1 <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/82 - Física/8202 - Fisica II/Guias de Problemas/Material y Soluciones/Guia 1">:arrow_down:</a></h2>
 <ul>
     <li><a href="Guia 1 - Problema 1.pdf">Guia 1 - Problema 1.pdf</a></li>
     <li><a href="Guia 1 - Problema 10(1).pdf">Guia 1 - Problema 10(1).pdf</a></li>
@@ -26,3 +26,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

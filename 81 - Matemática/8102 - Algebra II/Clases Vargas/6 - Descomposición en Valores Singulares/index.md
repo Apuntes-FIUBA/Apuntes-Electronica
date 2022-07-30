@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>6 - Descomposición en Valores Singulares</h2>
+<h2>6 - Descomposición en Valores Singulares <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8102 - Algebra II/Clases Vargas/6 - Descomposición en Valores Singulares">:arrow_down:</a></h2>
 <ul>
     <li><a href="14_07_21_c.pdf">14_07_21_c.pdf</a></li>
     <li><a href="2020 DVS Y APLICACIONES.pdf">2020 DVS Y APLICACIONES.pdf</a></li>
@@ -11,3 +11,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

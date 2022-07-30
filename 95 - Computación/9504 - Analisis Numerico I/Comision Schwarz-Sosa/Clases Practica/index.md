@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Clases Practica</h2>
+<h2>Clases Practica <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/95 - Computación/9504 - Analisis Numerico I/Comision Schwarz-Sosa/Clases Practica">:arrow_down:</a></h2>
 <ul>
     <li><a href="Unidad 1">Unidad 1</a></li>
     <li><a href="Unidad 2 - ENOL">Unidad 2 - ENOL</a></li>
@@ -12,3 +12,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

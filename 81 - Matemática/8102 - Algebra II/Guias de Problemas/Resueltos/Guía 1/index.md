@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h2>Guía 1</h2>
+<h2>Guía 1 <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8102 - Algebra II/Guias de Problemas/Resueltos/Guía 1">:arrow_down:</a></h2>
 <ul>
     <li><a href="1.1 álgebra.pdf">1.1 álgebra.pdf</a></li>
     <li><a href="1.10 álgebra.pdf">1.10 álgebra.pdf</a></li>
@@ -39,3 +39,18 @@
 </ul>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>[(Volver a la página anterior)](../)

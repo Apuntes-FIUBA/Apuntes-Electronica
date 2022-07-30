@@ -6,7 +6,7 @@ make_index.py [--directory </path/to/directory> --header <header text>]
 INDEX_TEMPLATE = r"""
 <html>
 <body>
-<h2>${header}</h2>
+<h2>${header} <a href="${link}">:arrow_down:</a></h2>
 <ul>
 % for name in names:
     <li><a href="${name}">${name}</a></li>
@@ -37,21 +37,26 @@ def main():
         fnames = [fname for fname in sorted(os.listdir(subdir))
             if fname not in EXCLUDED and (fname[0]!='.')]
         header = (args.header if args.header else os.path.basename(subdir))
-        newHTML=Template(INDEX_TEMPLATE).render(names=fnames, header=header)
+        link=subdir.replace(rootdir, "")
+        link="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main"+link
+        newHTML=Template(INDEX_TEMPLATE).render(names=fnames, header=header, link=link)
         if not os.path.exists(subdir+'/index.md'):
             with open(subdir+'/index.md', 'a') as f:
-                print("CREAR"+subdir+'/index.md')
+                print("CREANDO "+subdir+'/index.md')
                 f.write(newHTML)
-                #f.write("[Descargar Todo](https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/)\n")
+                #f.write("<br><br>[:arrow_down:](https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main"+link+")\n")
+                f.write("<br><br><br>[(Volver a la página anterior)](../)\n")
         else:
             with open(subdir+'/index.md', 'r') as f:
                 data = f.readlines()
             with open(subdir+'/index.md', 'w') as f:
                 f.seek(0)
-                f.write(newHTML)
+                f.write(newHTML)    # Estaria bueno que lo inserte donde esta el otro bloque y no siempre al principio
                 for line in data:
                     if not '<' in line : 
                         f.write(line)
+                #f.write("<br><br>[:arrow_down:](https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main"+link+")\n")
+                f.write("<br><br><br>[(Volver a la página anterior)](../)\n")
         f.close()
 if __name__ == '__main__':
     main()
