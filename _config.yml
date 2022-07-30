@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 title: Apuntes Electrónica
+plugins:
+  - jemoji
