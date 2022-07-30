@@ -3,22 +3,23 @@
 <body>
 <h2>Apuntes Prelat <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81 - Matemática/8105 - Analisis Matematico III A/Apuntes Prelat" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
-    <li><a href="0. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA  a Ã_NDICE (1).pdf">0. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA  a Ã_NDICE (1).pdf</a></li>
-    <li><a href="10. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  i X  Teorema de Cauchy Goursat.pdf">10. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  i X  Teorema de Cauchy Goursat.pdf</a></li>
-    <li><a href="11. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  j XI Propiedades Surtidas.pdf">11. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  j XI Propiedades Surtidas.pdf</a></li>
-    <li><a href="12. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  k XII Series de Laurent.pdf">12. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  k XII Series de Laurent.pdf</a></li>
-    <li><a href="3. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  b  III  El Plano Complejo (2).pdf">3. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  b  III  El Plano Complejo (2).pdf</a></li>
-    <li><a href="4. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  c IV LÃ_mites y Continuidad.pdf">4. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  c IV LÃ_mites y Continuidad.pdf</a></li>
-    <li><a href="6. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  e VI  Series de Potencias.pdf">6. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  e VI  Series de Potencias.pdf</a></li>
-    <li><a href="7. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  f  VII Funciones Elementales.pdf">7. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  f  VII Funciones Elementales.pdf</a></li>
-    <li><a href="8. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  g VIII Transf. Conformes.pdf">8. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  g VIII Transf. Conformes.pdf</a></li>
-    <li><a href="9. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  h IX IntegraciÃ³n.pdf">9. APUNTES DE ANÃ_LISIS DE VARIABLE COMPLEJA CAP  h IX IntegraciÃ³n.pdf</a></li>
-    <li><a href="A.  APUNTES SOBRE INTEGRAES  IMPROPIAS (2).pdf">A.  APUNTES SOBRE INTEGRAES  IMPROPIAS (2).pdf</a></li>
-    <li><a href="AD AP VC CAP V.pdf">AD AP VC CAP V.pdf</a></li>
-    <li><a href="B.  APUNTES SOBRE SERIES DE FOURIER (6).pdf">B.  APUNTES SOBRE SERIES DE FOURIER (6).pdf</a></li>
-    <li><a href="C APUNTES SOBRE LA TRANSFORMADA DE FOURIER (6).pdf">C APUNTES SOBRE LA TRANSFORMADA DE FOURIER (6).pdf</a></li>
-    <li><a href="D. APUNTE SOBRE LA T. DE  LAPLACE.pdf">D. APUNTE SOBRE LA T. DE  LAPLACE.pdf</a></li>
-    <li><a href="E.  APUNTES SOBRE ECUACIONES  DIFERENCIALES.pdf">E.  APUNTES SOBRE ECUACIONES  DIFERENCIALES.pdf</a></li>
+    <li><a href="Apunte 01 - Introducción E Índice De La Primera Parte.pdf">Apunte 01 - Introducción E Índice De La Primera Parte.pdf</a></li>
+    <li><a href="Apunte 02 - Teorema De Cauchy-Gooursat.pdf">Apunte 02 - Teorema De Cauchy-Gooursat.pdf</a></li>
+    <li><a href="Apunte 03 - Propiedades De Funciones Holomorfas.pdf">Apunte 03 - Propiedades De Funciones Holomorfas.pdf</a></li>
+    <li><a href="Apunte 04 - Series De Laurent Y Teoría De Residuos.pdf">Apunte 04 - Series De Laurent Y Teoría De Residuos.pdf</a></li>
+    <li><a href="Apunte 05 - Topología Básica Del Plano Complejo.pdf">Apunte 05 - Topología Básica Del Plano Complejo.pdf</a></li>
+    <li><a href="Apunte 06 - Límites Y Continuidad.pdf">Apunte 06 - Límites Y Continuidad.pdf</a></li>
+    <li><a href="Apunte 07 - Derivabilidad Y Holomorfía.pdf">Apunte 07 - Derivabilidad Y Holomorfía.pdf</a></li>
+    <li><a href="Apunte 08 - Series De Potencias Y Funciones Analíticas.pdf">Apunte 08 - Series De Potencias Y Funciones Analíticas.pdf</a></li>
+    <li><a href="Apunte 09 - Funciones Elementales.pdf">Apunte 09 - Funciones Elementales.pdf</a></li>
+    <li><a href="Apunte 10 - Transformaciones Conformes.pdf">Apunte 10 - Transformaciones Conformes.pdf</a></li>
+    <li><a href="Apunte 11 - Integración.pdf">Apunte 11 - Integración.pdf</a></li>
+    <li><a href="Apunte 12 - Integrales Impropias.pdf">Apunte 12 - Integrales Impropias.pdf</a></li>
+    <li><a href="Apunte 13 - Series De Fourier.pdf">Apunte 13 - Series De Fourier.pdf</a></li>
+    <li><a href="Apunte 14 - Transformada De Fourier.pdf">Apunte 14 - Transformada De Fourier.pdf</a></li>
+    <li><a href="Apunte 15 - Transformada De Laplace.pdf">Apunte 15 - Transformada De Laplace.pdf</a></li>
+    <li><a href="Apunte 16 - Ecuaciones Diferenciales .pdf">Apunte 16 - Ecuaciones Diferenciales .pdf</a></li>
+    <li><a href="Apunte 17 -  Onda Bidimensional (Tema Complementario).pdf">Apunte 17 -  Onda Bidimensional (Tema Complementario).pdf</a></li>
 </ul>
 </body>
 </html>
@@ -50,4 +51,10 @@
 
 
 
-<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>
+
+
+
+
+
+
+<br><br><br><br><br><a href="../" style="float: left">(Volver)</a> <a href="https://apuntes-fiuba.github.io/Apuntes-Electronica" style="float: right">(Página Principal)</a>

@@ -40,12 +40,12 @@ def main():
         link=subdir.replace(rootdir, "")
         link="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main"+link
         newHTML=Template(INDEX_TEMPLATE).render(names=fnames, header=header, link=link)
+
         if not os.path.exists(subdir+'/index.md'):
             with open(subdir+'/index.md', 'a') as f:
                 print("CREANDO "+subdir+'/index.md')
                 f.write(newHTML)
-                #f.write("<br><br>[:arrow_down:](https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main"+link+")\n")
-                f.write('<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>\n')
+                f.write('<br><br><br><br><br><a href="../" style="float: left">(Volver)</a> <a href="https://apuntes-fiuba.github.io/Apuntes-Electronica" style="float: right">(Página Principal)</a>\n')
         else:
             with open(subdir+'/index.md', 'r') as f:
                 data = f.readlines()
@@ -55,8 +55,7 @@ def main():
                 for line in data:
                     if not '<' in line : 
                         f.write(line)
-                #f.write("<br><br>[:arrow_down:](https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main"+link+")\n")
-                f.write('<br><br><br><br><br><a href="/" style="float: left">(Volver)</a> <a href="/../../../../../" style="float: right">(Página Principal)</a>\n')
+                f.write('<br><br><br><br><br><a href="../" style="float: left">(Volver)</a> <a href="https://apuntes-fiuba.github.io/Apuntes-Electronica" style="float: right">(Página Principal)</a>\n')
         f.close()
 if __name__ == '__main__':
     main()
