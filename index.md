@@ -12,15 +12,10 @@
     <li><a href="91 - Gestión">91 - Gestión</a></li>
     <li><a href="95 - Computación">95 - Computación</a></li>
     <li><a href="97 - Ambiente y Trabajo">97 - Ambiente y Trabajo</a></li>
+    <li><a href="favicon.ico">favicon.ico</a></li>
 </ul>
 </body>
 </html>
-
-
-
-
-
-
 
 ## [Como Subir Apuntes](subir-apuntes.html)
 

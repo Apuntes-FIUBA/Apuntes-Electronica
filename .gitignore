@@ -302,3 +302,4 @@ TSWLatexianTemp*
 
 _site/
 .vscode/
+Gemfile.lock
