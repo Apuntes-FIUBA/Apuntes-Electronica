@@ -16,7 +16,7 @@ INDEX_TEMPLATE = r"""
 </html>
 """
 
-EXCLUDED = ('index.html', 'index.md', '_site', '_config.yml', 'Gemfile', 'Gemfile.lock', 'README.md', 'make-index.py', '.', 'Util', 'subir-apuntes.md', 'descargar-apuntes.md')
+EXCLUDED = ('index.html', 'index.md', '_site', '_config.yml', 'Gemfile', 'Gemfile.lock', 'README.md', 'make-index.py', '.', 'Util', 'subir-apuntes.md', 'descargar-apuntes.md', 'favicon.ico')
 
 import os
 import argparse
