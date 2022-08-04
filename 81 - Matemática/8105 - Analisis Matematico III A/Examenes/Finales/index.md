@@ -38,6 +38,7 @@
     <li><a href="Integrador 2022-03-04 resuelto.pdf">Integrador 2022-03-04 resuelto.pdf</a></li>
     <li><a href="Integrador 2022-03-11 resuelto.pdf">Integrador 2022-03-11 resuelto.pdf</a></li>
     <li><a href="Integrador 2022-07-26.pdf">Integrador 2022-07-26.pdf</a></li>
+    <li><a href="Integrador 2022-08-04.pdf">Integrador 2022-08-04.pdf</a></li>
 </ul>
 </body>
 </html>

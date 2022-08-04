@@ -15,7 +15,7 @@ INDEX_TEMPLATE = r"""
 </body>
 </html>
 """
-
+# TODO: agregar la fecha de ultima modificacion en cada index.md
 EXCLUDED = ('index.html', 'index.md', '_site', '_config.yml', 'Gemfile', 'Gemfile.lock', 'README.md', 'make-index.py', '.', 'Util', 'subir-apuntes.md', 'descargar-apuntes.md', 'favicon.ico')
 
 import os
