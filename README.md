@@ -1,4 +1,4 @@
-[![pages-build-deployment](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/actions/workflows/pages/pages-build-deployment)
+[![Deploy Jekyll site to Pages](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/actions/workflows/pages.yml/badge.svg)](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/actions/workflows/pages.yml)
 
 # Apuntes Electrónica
 
