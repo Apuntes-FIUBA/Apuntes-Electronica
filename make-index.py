@@ -20,7 +20,7 @@ EXCLUDED = ('index.html', 'index.md', '_site', '_config.yml', 'Gemfile', 'Gemfil
 
 import os
 import argparse
-
+from datetime import datetime
 # May need to do "pip install mako"
 from mako.template import Template
 
@@ -50,6 +50,7 @@ def main():
                 f.write('<br><br><br><br><br><a href="../" style="float: left">(Volver)</a> <a href="https://apuntes-fiuba.github.io/Apuntes-Electronica" style="float: right">(Página Principal)</a>\n')
         else:
             with open(subdir+'/index.md', 'r') as f:
+                print("Actualizando:  "+subdir+'/index.md')
                 data = f.readlines()
             with open(subdir+'/index.md', 'w') as f:
                 f.seek(0)
@@ -58,6 +59,8 @@ def main():
                     if not '<' in line : 
                         f.write(line)
                 f.write('<br><br><br><br><br><a href="../" style="float: left">(Volver)</a> <a href="https://apuntes-fiuba.github.io/Apuntes-Electronica" style="float: right">(Página Principal)</a>\n')
+                f.write(datetime.now().strftime("%H:%M:%S"))
+
         f.close()
 if __name__ == '__main__':
     main()
