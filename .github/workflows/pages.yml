@@ -26,8 +26,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update index.md
-        uses: actions/setup-python@v2
-        uses: jannekem/run-python-script-action@v1.2
+      - uses: actions/setup-python@v2
+      - uses: jannekem/run-python-script-action@v1.2
         with:
           script: | 
             import os
