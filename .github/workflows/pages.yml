@@ -25,8 +25,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Update index.md
+      - name: Setup Python
         uses: actions/setup-python@v2
+      - name: Update index.md
         run: |
           python3 ./make-index.py
       - name: Checkout
