@@ -59,7 +59,6 @@ def main():
                     if not '<' in line : 
                         f.write(line)
                 f.write('<br><br><br><br><br><a href="../" style="float: left">(Volver)</a> <a href="https://apuntes-fiuba.github.io/Apuntes-Electronica" style="float: right">(Página Principal)</a>\n')
-                f.write(datetime.now().strftime("%H:%M:%S"))
 
         f.close()
 if __name__ == '__main__':

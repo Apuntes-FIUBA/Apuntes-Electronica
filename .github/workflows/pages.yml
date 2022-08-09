@@ -36,8 +36,17 @@ jobs:
       - name: Update index.md
         run: |
           python make-index.py
-      - name: Checkout
-        uses: actions/checkout@v3
+      - name: Commit Files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "update index.md" -a    
+      - name: Push Changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main  
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
