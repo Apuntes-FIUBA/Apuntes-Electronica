@@ -42,7 +42,7 @@ def main():
         newHTML=Template(INDEX_TEMPLATE).render(names=fnames, header=header, link=link)
 
         # TODO: que no vuelva a editar los que no cambiaron
-        # ingnore el primer index.md
+        # ignorar el primer index.md
         if not os.path.exists(subdir+'/index.md'):
             with open(subdir+'/index.md', 'a') as f:
                 print("CREANDO "+subdir+'/index.md')
