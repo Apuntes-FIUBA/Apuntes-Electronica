@@ -39,9 +39,11 @@
     <li><a href="Integrador 2022-03-11 resuelto.pdf">Integrador 2022-03-11 resuelto.pdf</a></li>
     <li><a href="Integrador 2022-07-26.pdf">Integrador 2022-07-26.pdf</a></li>
     <li><a href="Integrador 2022-08-04.pdf">Integrador 2022-08-04.pdf</a></li>
+    <li><a href="Integrador 2022-08-11.pdf">Integrador 2022-08-11.pdf</a></li>
 </ul>
 </body>
 </html>
+
 
 
 <br><br><br><br><br><a href="../" style="float: left">(Volver)</a> <a href="https://apuntes-fiuba.github.io/Apuntes-Electronica" style="float: right">(Página Principal)</a>
