@@ -3,11 +3,13 @@
 <body>
 <h2>Clases <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/86 - Electrónica/8603 - Dispositivos Semiconductores/Clases" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
+    <li><a href="Clases C1 2023.pdf">Clases C1 2023.pdf</a></li>
     <li><a href="Clases Practicas">Clases Practicas</a></li>
     <li><a href="Clases Teoricas">Clases Teoricas</a></li>
 </ul>
 </body>
 </html>
+
 
 
 
