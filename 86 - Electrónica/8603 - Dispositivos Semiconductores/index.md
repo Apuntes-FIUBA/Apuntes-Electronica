@@ -7,11 +7,14 @@
     <li><a href="CARPETA_COMPLETA_2020_Perroni.pdf">CARPETA_COMPLETA_2020_Perroni.pdf</a></li>
     <li><a href="Clases">Clases</a></li>
     <li><a href="Examenes">Examenes</a></li>
+    <li><a href="Formulas">Formulas</a></li>
+    <li><a href="Guias de Ejercicios">Guias de Ejercicios</a></li>
     <li><a href="Trabajos Practicos">Trabajos Practicos</a></li>
     <li><a href="Tutoriales">Tutoriales</a></li>
 </ul>
 </body>
 </html>
+
 
 
 
