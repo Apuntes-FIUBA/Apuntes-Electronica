@@ -7,11 +7,17 @@
     <li><a href="Primer Parcial 2018 C1.pdf">Primer Parcial 2018 C1.pdf</a></li>
     <li><a href="Primer Parcial 2018 C2.pdf">Primer Parcial 2018 C2.pdf</a></li>
     <li><a href="Primer Parcial 2022 C1.pdf">Primer Parcial 2022 C1.pdf</a></li>
+    <li><a href="Primer Parcial 2022 C2.pdf">Primer Parcial 2022 C2.pdf</a></li>
+    <li><a href="Primer Parcial 2023 C1.pdf">Primer Parcial 2023 C1.pdf</a></li>
     <li><a href="Primer Recuperatorio 2019 C1.pdf">Primer Recuperatorio 2019 C1.pdf</a></li>
     <li><a href="Primer Recuperatorio 2022 C1.pdf">Primer Recuperatorio 2022 C1.pdf</a></li>
+    <li><a href="Primer Recuperatorio 2022 C2.pdf">Primer Recuperatorio 2022 C2.pdf</a></li>
+    <li><a href="Primer Recuperatorio 2023 C1.pdf">Primer Recuperatorio 2023 C1.pdf</a></li>
+    <li><a href="Segundo Recuperatorio 2022 C2.pdf">Segundo Recuperatorio 2022 C2.pdf</a></li>
 </ul>
 </body>
 </html>
+
 
 
 
