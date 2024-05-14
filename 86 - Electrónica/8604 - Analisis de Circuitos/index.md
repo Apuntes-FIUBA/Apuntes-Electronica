@@ -6,9 +6,11 @@
     <li><a href="Apuntes & Resumenes">Apuntes & Resumenes</a></li>
     <li><a href="Examenes">Examenes</a></li>
     <li><a href="Trabajos Practicos">Trabajos Practicos</a></li>
+    <li><a href="Videos Clases.md">Videos Clases.md</a></li>
 </ul>
 </body>
 </html>
+
 
 
 
