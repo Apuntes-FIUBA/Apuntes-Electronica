@@ -3,22 +3,29 @@
 <body>
 <h2>Primer Parcial <a href="https://downgit.github.io/#/home?url=https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/86 - Electrónica/8604 - Analisis de Circuitos/Examenes/Primer Parcial" style="font-size:20px">  ⬇️ </a></h2>
 <ul>
-    <li><a href="Primer Parcial 2018 2Q 1R.pdf">Primer Parcial 2018 2Q 1R.pdf</a></li>
-    <li><a href="Primer Parcial 2019 1Q 1R (Resuelto).pdf">Primer Parcial 2019 1Q 1R (Resuelto).pdf</a></li>
-    <li><a href="Primer Parcial 2019 1Q 1R.pdf">Primer Parcial 2019 1Q 1R.pdf</a></li>
-    <li><a href="Primer Parcial 2019 1Q 2R.pdf">Primer Parcial 2019 1Q 2R.pdf</a></li>
-    <li><a href="Primer Parcial 2019 1Q.pdf">Primer Parcial 2019 1Q.pdf</a></li>
-    <li><a href="Primer Parcial 2019 2Q.pdf">Primer Parcial 2019 2Q.pdf</a></li>
-    <li><a href="Primer Parcial 2020 2Q 1R.pdf">Primer Parcial 2020 2Q 1R.pdf</a></li>
-    <li><a href="Primer Parcial 2020 2Q 2R.pdf">Primer Parcial 2020 2Q 2R.pdf</a></li>
-    <li><a href="Primer Parcial 20XX XQ Cuestionario.pdf">Primer Parcial 20XX XQ Cuestionario.pdf</a></li>
-    <li><a href="Primer Parcial Simulacros.pdf">Primer Parcial Simulacros.pdf</a></li>
-    <li><a href="Primer Parcial XXXX 1R.pdf">Primer Parcial XXXX 1R.pdf</a></li>
-    <li><a href="Primer Parcial XXXX 2R.pdf">Primer Parcial XXXX 2R.pdf</a></li>
-    <li><a href="Primer Parcial XXXX.pdf">Primer Parcial XXXX.pdf</a></li>
+    <li><a href="ADC -  Parcial XXXX 1R.pdf">ADC -  Parcial XXXX 1R.pdf</a></li>
+    <li><a href="ADC -  Parcial XXXX 2R.pdf">ADC -  Parcial XXXX 2R.pdf</a></li>
+    <li><a href="ADC -  Parcial XXXX.pdf">ADC -  Parcial XXXX.pdf</a></li>
+    <li><a href="ADC - Parcial 2018 C2 1R.pdf">ADC - Parcial 2018 C2 1R.pdf</a></li>
+    <li><a href="ADC - Parcial 2019 C1 1R (Resuelto).pdf">ADC - Parcial 2019 C1 1R (Resuelto).pdf</a></li>
+    <li><a href="ADC - Parcial 2019 C1 1R.pdf">ADC - Parcial 2019 C1 1R.pdf</a></li>
+    <li><a href="ADC - Parcial 2019 C1 2R.pdf">ADC - Parcial 2019 C1 2R.pdf</a></li>
+    <li><a href="ADC - Parcial 2019 C1.pdf">ADC - Parcial 2019 C1.pdf</a></li>
+    <li><a href="ADC - Parcial 2019 C2.pdf">ADC - Parcial 2019 C2.pdf</a></li>
+    <li><a href="ADC - Parcial 2020 C1 Simulacro.pdf">ADC - Parcial 2020 C1 Simulacro.pdf</a></li>
+    <li><a href="ADC - Parcial 2020 C2 1R.pdf">ADC - Parcial 2020 C2 1R.pdf</a></li>
+    <li><a href="ADC - Parcial 2020 C2 2R.pdf">ADC - Parcial 2020 C2 2R.pdf</a></li>
+    <li><a href="ADC - Parcial 2020 C2.pdf">ADC - Parcial 2020 C2.pdf</a></li>
+    <li><a href="ADC - Parcial 2022 C1 1R.pdf">ADC - Parcial 2022 C1 1R.pdf</a></li>
+    <li><a href="ADC - Parcial 2022 C1 2R.pdf">ADC - Parcial 2022 C1 2R.pdf</a></li>
+    <li><a href="ADC - Parcial 2022 C1.pdf">ADC - Parcial 2022 C1.pdf</a></li>
+    <li><a href="ADC - Parcial 2024 C1.pdf">ADC - Parcial 2024 C1.pdf</a></li>
+    <li><a href="ADC - Parcial 20XX XQ Cuestionario.pdf">ADC - Parcial 20XX XQ Cuestionario.pdf</a></li>
+    <li><a href="ADC - Parcial Simulacros.pdf">ADC - Parcial Simulacros.pdf</a></li>
 </ul>
 </body>
 </html>
+
 
 
 
