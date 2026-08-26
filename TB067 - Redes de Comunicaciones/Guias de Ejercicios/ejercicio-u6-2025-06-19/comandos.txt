@@ -1,0 +1,43 @@
+python topology-host-b-prendido.py 
+
+mininet> xterm hA
+hostA> ifconfig
+hostA> route -n
+hostA> ping 10.1.0.252
+
+--
+
+mininet> xterm hB
+hostB> ifconfig
+hostB> route -n
+hostB> ping 10.0.0.251
+
+--
+
+hostB> tcpdump -i hB-eth0 -n
+hostA> ping 10.1.0.252
+
+mininet> quit
+
+--
+--
+
+python topology-host-b-apagado.py 
+
+mininet> xterm rB
+routerB> ifconfig
+routerB> route -n
+routerB> arp -n
+
+mininet> xterm hA
+hostA> ifconfig
+hostA> route -n
+
+hostA> ping 10.1.0.252
+routerB> arp -n
+
+routerB> ip n replace 10.1.0.252 lladdr 11:22:33:44:55:66 nud permanent dev rB-eth1
+routerB> arp -n
+
+routerB> tcpdump -i rB-eth1 -n
+hostA> ping 10.1.0.252 
