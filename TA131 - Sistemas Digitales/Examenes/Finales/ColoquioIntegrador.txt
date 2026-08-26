@@ -1,0 +1,7 @@
+
+COLOQUIO INTEGRADOR
+
+El método de evaluación incluye, de acuerdo con lo establecido por la Facultad según Res. 1975/99, una Evaluación Parcial escrita, y una Evaluación Integradora final, teórico práctica, la que podrá ser oral y/o escrita. A través de las mismas se pretende reconocer el grado de entendimiento de los temas, la capacidad adquirida para razonar la solución de los problemas planteados y la aplicación integral de las herramientas analizadas en casos de análisis y diseño de circuitos y sistemas. La promoción de la materia requiere la aprobación de la evaluación Parcial, la aprobación del Trabajo Práctico, y también el cumplimiento del 75% de asistencia a las clases prácticas, y el cumplimiento de los requisitos académicos a ser establecidos para tal fin.
+Una vez habilitado, el alumno deberá rendir y aprobar la evaluación Integradora, en las fechas y plazos establecidos por la Resolución mencionada más arriba. Para poder rendir el coloquio integrador final los alumnos deberán inscribirse en las fechas previstas por el Calendario Académico de la Facultad. No podrán rendir quienes no se hayan inscripto o no figuren habilitados.
+
+Generalmente la evaluación integradora consta de una primer parte escrita sobre el 2do bloque de la materia (Biestables, Contadores y Registros), es decir los contenidos que no entraron en el parcial. A continuación se evaluará individualmente en forma oral y/o escrita todos los contenidos de la materia.
