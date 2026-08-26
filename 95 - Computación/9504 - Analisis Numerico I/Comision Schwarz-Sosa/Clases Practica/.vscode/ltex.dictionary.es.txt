@@ -1,4 +1,0 @@
-Aitken
-Steffensen
-falsi
-raphson
