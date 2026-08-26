@@ -1,0 +1,25 @@
+* E:\Documentos\LTspiceXVII\Eze\Circuitos microelectronicos\parcial22-11-24\2.asc
+v+ VCC 0 15
+V2 vs 0 SINE(0 50m 15k) AC 1
+Q§T1 VC1 VB1 VE1 0 NTBJ
+Q§T2 0 VC1 VE2 0 PTBJ
+RE1 VE1 0 0.4K
+RB2 VB1 0 80K
+RB1 VCC VB1 680K
+Rs vi vs 2k
+RC2 VC1 VA 1K
+RC1 VCC VA 2K
+RE2 VCC VE2 2K
+CL vo VE2 1µ
+RL vo 0 0.4K
+CE VB1 vi 1µ
+.model NPN NPN
+.model PNP PNP
+.lib C:\Users\Eze\AppData\Local\LTspice\lib\cmp\standard.bjt
+.model NTBJ NPN(BF=400, CJC=2p)
+.model PTBJ PNP(BF=400, CJC=2p)
+* .op
+.tran 200u
+* .ac dec 100 1 200meg
+.backanno
+.end
